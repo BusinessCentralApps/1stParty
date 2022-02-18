@@ -1,5 +1,5 @@
 {
-    "country":  "ru",
+    "country":  "w1",
     "enablePerTenantExtensionCop":  false,
     "appFolders":  [
                        "CDTracking\\app",

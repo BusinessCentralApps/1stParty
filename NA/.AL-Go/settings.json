@@ -1,5 +1,5 @@
 {
-    "country":  "na",
+    "country":  "us",
     "enablePerTenantExtensionCop":  false,
     "appFolders":  [
                        "Ceridian\\app",
