@@ -1,0 +1,20 @@
+{
+    "country":  "dk",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "C52012DataMigration\\app",
+                       "DKCore\\app",
+                       "FIK\\app",
+                       "ImportDKPayroll\\app",
+                       "OIOUBL\\app",
+                       "VATReportsDK\\app"
+                   ],
+    "testFolders":  [
+                        "C52012DataMigration\\test",
+                        "DKCore\\test",
+                        "FIK\\test",
+                        "ImportDKPayroll\\test",
+                        "OIOUBL\\test",
+                        "VATReportsDK\\test"
+                    ]
+}

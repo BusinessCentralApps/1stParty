@@ -1,0 +1,10 @@
+{
+    "country":  "mx",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "HybridBCLast_MX\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBCLast_MX\\test"
+                    ]
+}

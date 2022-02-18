@@ -1,0 +1,14 @@
+{
+    "country":  "no",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "ElectronicVATSubmission\\app",
+                       "ImportNOPayroll\\app",
+                       "NorwegianSAFT\\app"
+                   ],
+    "testFolders":  [
+                        "ElectronicVATSubmission\\test",
+                        "ImportNOPayroll\\test",
+                        "NorwegianSAFT\\test"
+                    ]
+}

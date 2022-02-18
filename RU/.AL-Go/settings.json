@@ -1,0 +1,12 @@
+{
+    "country":  "ru",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "CDTracking\\app",
+                       "Onprem Permissions RU\\app"
+                   ],
+    "testFolders":  [
+                        "CDTracking\\test",
+                        "Onprem Permissions RU\\test"
+                    ]
+}

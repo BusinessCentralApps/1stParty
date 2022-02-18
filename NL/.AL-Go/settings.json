@@ -1,0 +1,10 @@
+{
+    "country":  "nl",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "NLDigitalTaxDeclaration\\app"
+                   ],
+    "testFolders":  [
+                        "NLDigitalTaxDeclaration\\test"
+                    ]
+}

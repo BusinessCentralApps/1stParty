@@ -1,0 +1,15 @@
+{
+    "country":  "na",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "Ceridian\\app",
+                       "EnvestnetYodleeBankFeeds\\app",
+                       "MX_DIOT\\app",
+                       "Onprem Permissions NA\\app"
+                   ],
+    "testFolders":  [
+                        "EnvestnetYodleeBankFeeds\\test",
+                        "MX_DIOT\\test",
+                        "Onprem Permissions NA\\test"
+                    ]
+}

@@ -1,0 +1,12 @@
+{
+    "country":  "gb",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "UKMakingTaxDigital\\app",
+                       "UKPostcodeGetAddressIO\\app"
+                   ],
+    "testFolders":  [
+                        "UKMakingTaxDigital\\test",
+                        "UKPostcodeGetAddressIO\\test"
+                    ]
+}

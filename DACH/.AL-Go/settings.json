@@ -1,0 +1,10 @@
+{
+    "country":  "de",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "Onprem Permissions DACH\\app"
+                   ],
+    "testFolders":  [
+                        "Onprem Permissions DACH\\test"
+                    ]
+}

@@ -1,0 +1,12 @@
+{
+    "country":  "au",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "HybridBCLast_AU\\app",
+                       "Onprem Permissions AU\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBCLast_AU\\test",
+                        "Onprem Permissions AU\\test"
+                    ]
+}

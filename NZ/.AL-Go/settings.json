@@ -1,0 +1,10 @@
+{
+    "country":  "nz",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "HybridBCLast_NZ\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBCLast_NZ\\test"
+                    ]
+}

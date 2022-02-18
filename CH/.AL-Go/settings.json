@@ -1,0 +1,12 @@
+{
+    "country":  "ch",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "HybridBCLast_CH\\app",
+                       "SwissQRBill\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBCLast_CH\\test",
+                        "SwissQRBill\\test"
+                    ]
+}
