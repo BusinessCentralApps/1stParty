@@ -72,7 +72,6 @@
                         "QuickbooksPayrollFileImport\\test",
                         "RecommendedApps\\test",
                         "SalesAndInventoryForecast\\test",
-                        "SimplifiedBankStatementImport\\test",
                         "UKSendRemittanceAdvice\\test",
                         "VATGroupManagement\\test",
                         "WorldPayPaymentsStandard\\test"
