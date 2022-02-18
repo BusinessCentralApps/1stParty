@@ -1,5 +1,5 @@
 {
-    "country":  "w1",
+    "country":  "base",
     "enablePerTenantExtensionCop":  false,
     "appFolders":  [
                        "AMCBanking365Fundamentals\\app",
