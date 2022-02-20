@@ -5,12 +5,14 @@
                        "HybridBaseDeployment\\app",
                        "HybridBC\\app",
                        "HybridBCLast\\app",
-                       "HybridGP\\app"
+                       "HybridGP\\app",
+                       "SalesAndInventoryForecast\\app"
                    ],
     "testFolders":  [
                         "HybridBaseDeployment\\test",
                         "HybridBC\\test",
                         "HybridBCLast\\test",
-                        "HybridGP\\test"
+                        "HybridGP\\test",
+                        "SalesAndInventoryForecast\\test"
                     ]
 }
