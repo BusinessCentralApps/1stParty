@@ -2,7 +2,37 @@
     "folders": [
         {
             "path": ".AL-Go"
+        },
+        {
+            "path": "HybridBaseDeployment\\app"
+        },
+        {
+            "path": "HybridBC\\app"
+        },
+        {
+            "path": "HybridBCLast\\app"
+        },
+        {
+            "path": "HybridGP\\app"
+        },
+        {
+            "path": "SalesAndInventoryForecast\\app"
+        },
+        {
+            "path": "HybridBaseDeployment\\test"
+        },
+        {
+            "path": "HybridBC\\test"
+        },
+        {
+            "path": "HybridBCLast\\test"
+        },
+        {
+            "path": "HybridGP\\test"
+        },
+        {
+            "path": "SalesAndInventoryForecast\\test"
         }
-    ],
+],
     "settings": {}
 }
