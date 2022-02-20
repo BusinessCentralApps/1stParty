@@ -1,0 +1,16 @@
+{
+    "country":  "base",
+    "enablePerTenantExtensionCop":  false,
+    "appFolders":  [
+                       "HybridBaseDeployment\\app",
+                       "HybridBC\\app",
+                       "HybridBCLast\\app",
+                       "HybridGP\\app"
+                   ],
+    "testFolders":  [
+                        "HybridBaseDeployment\\test",
+                        "HybridBC\\test",
+                        "HybridBCLast\\test",
+                        "HybridGP\\test"
+                    ]
+}
