@@ -3,12 +3,9 @@ Param(
 )
 
 $parameters.multitenant = $false
-$parameters.RunSandboxAsOnPrem = $true
-#if ("$env:GITHUB_RUN_ID" -eq "") {
-#    $parameters.includeAL = $true
-#    $parameters.doNotExportObjectsToText = $true
-#    $parameters.shortcuts = "none"
-#}
+$parameters.includeAL = $true
+$parameters.doNotExportObjectsToText = $true
+$parameters.EnableTaskScheduler = $true
 
 New-BcContainer @parameters
 
